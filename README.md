@@ -1,9 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&random=false&width=435&height=53&lines=Hi+%F0%9F%91%8B%2C+I'm+Nguyen+Bich+Phuong" alt="Typing SVG" /></a>
-
-    <h3 align="center">I'm a student at UIT. Now, I'm studying both IT and Japanese. My aspiration for the future is to become a BrSE.</h3>
+   <h3 align="center">I'm a student at UIT. Now, I'm studying both IT and Japanese. My aspiration for the future is to become a BrSE.</h3>
     <img align="right"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul2xsoMWnHckE4Uw49QeKoB9JDzCL2kJdMA&usqp=CAU">
+ 
 
 - 📫 How to reach me **nbphuong810@gmail.com**
+- ✨I'm learning a new framework
 
 
 <p align="left">
