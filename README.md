@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&random=false&width=435&lines=Nguy%E1%BB%85n+B%C3%ADch+Ph%C6%B0%E1%BB%A3ng" alt="Typing SVG" /></a>
  <h1 align="center">Hi 👋, I'm Nguyen Bich Phuong</h1>
     <h3 align="center">I'm a student at UIT. Now, I'm studying both IT and Japanese. My aspiration for the future is to become a BrSE.</h3>
     <img align="right"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul2xsoMWnHckE4Uw49QeKoB9JDzCL2kJdMA&usqp=CAU">
